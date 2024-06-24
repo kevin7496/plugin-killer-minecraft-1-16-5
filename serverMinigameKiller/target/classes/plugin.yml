@@ -1,0 +1,4 @@
+name: ServerMinigameKiller
+version: 'v1.0'
+main: me.kevin.serverminigamekiller.Main
+api-version: '1.16'
